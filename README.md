@@ -15,6 +15,9 @@ Your assignment involves creating a peer-to-peer communication system allowing a
 
 # TO RUN THE PROJECT
  Step1. Open backend folder in terminal
+ 
  Step2. Run command - npm install
+ 
  Step3. nodemon - to run backend server for socket conenction
+ 
  Step4. Now run flutter project
